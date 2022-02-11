@@ -1,0 +1,64 @@
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://127.0.0.1:3333/0> foaf:name "Portrait de Monna Lisa, dite La Joconde";
+rdfs:comment "La Joconde, ou Portrait de Mona Lisa, est un tableau de l'artiste Léonard de Vinci, réalisé entre 1503 et 1506 ou entre 1513 et 1516, et peut-être jusqu'à 1519, qui représente un portrait mi-corps, probablement celui de la Florentine Lisa Gherardini, épouse de Francesco del Giocondo." .
+<http://127.0.0.1:3333/1> foaf:name "Les Noces de Cana";
+rdfs:comment "Les Noces de Cana est un tableau de Paul Véronèse conservé au musée du Louvre, à Paris." .
+<http://127.0.0.1:3333/2> foaf:name "Le Concert champêtre";
+rdfs:comment "Le Concert champêtre est un tableau peint vers 1509, aujourd’hui conservé dans les collections du département des Peintures du musée du Louvre." .
+<http://127.0.0.1:3333/3> foaf:name "La Femme au miroir";
+rdfs:comment "La Femme au miroir est une peinture à l'huile sur toile réalisée par le peintre italien Titien vers 1515." .
+<http://127.0.0.1:3333/4> foaf:name "Les Pèlerins d'Emmaüs";
+rdfs:comment "Les Pèlerins d'Emmaüs est une des plus célèbres œuvres du peintre Rembrandt. Cette œuvre a été peinte en 1648 et se trouve actuellement au Musée du Louvre, à Paris." .
+<http://127.0.0.1:3333/5> foaf:name "Portrait d'homme, dit L'Homme au gant";
+rdfs:comment "L’Homme au gant est un tableau du Titien, datant de la période de 1520 à 1523, conservé au musée du Louvre. La signature « Ticianvs f. » se présente en cartellino sous la forme d’une incision taillée dans le bloc de marbre." .
+<http://127.0.0.1:3333/6> rdfs:comment "La Vénus de Milo est une statue en marbre représentant vraisemblablement la déesse Aphrodite, retrouvée sans ses bras dans l'île grecque de Milos en avril 1820. C'est une œuvre originale de l'époque hellénistique, créée vers 150-130 av. J.-C.";
+foaf:name "statue ; Vénus de Milo" .
+<http://127.0.0.1:3333/7> foaf:name "statue ; Vénus d'Arles";
+rdfs:comment "La Vénus d'Arles est une statue en marbre dégagée en 1651, lors de la fouille des vestiges romains proches du théâtre antique d'Arles. Elle représente probablement la déesse Vénus." .
+<http://127.0.0.1:3333/8> foaf:name "Sphinx de Tanis";
+rdfs:comment "Le grand sphinx de Tanis est une sculpture en forme de sphinx égyptien, sculptée en granit rose dans les années -2600, sous l'Ancien Empire. C'est l'un des plus grands sphinx conservés en dehors de l'Égypte." .
+<http://127.0.0.1:3333/9> foaf:name "La Liberté guidant le peuple";
+rdfs:comment "La Liberté guidant le peuple est une huile sur toile d'Eugène Delacroix réalisée en 1830, inspirée de la révolution des Trois Glorieuses." .
+<http://127.0.0.1:3333/10> foaf:name "Psyché ranimée par le baiser de l'Amour";
+rdfs:comment "Psyché ranimée par le baiser de l'Amour est un groupe statuaire en marbre sculpté entre 1787 et 1793 par Antonio Canova." .
+<http://127.0.0.1:3333/11> foaf:name "Le Radeau de La Méduse";
+rdfs:comment "Le Radeau de La Méduse est une peinture à l'huile sur toile, réalisée entre 1818 et 1819 par le peintre et lithographe romantique français Théodore Géricault. Son titre initial, donné par Géricault lors de sa première présentation, est Scène d'un naufrage." .
+<http://127.0.0.1:3333/12> foaf:name "Le Scribe accroupi";
+rdfs:comment "Le Scribe accroupi est une statue égyptienne en calcaire, en cuivre et en cristal de roche peint représentant un scribe égyptien assis en tailleur." .
+<http://127.0.0.1:3333/13> foaf:name "Le Sacre de Napoléon";
+rdfs:comment "Le Sacre de Napoléon est un tableau peint entre 1805 et 1807 par Jacques-Louis David, peintre officiel de Napoléon Iᵉʳ, qui représente une des cérémonies du couronnement. Imposante par ses dimensions, presque dix mètres sur plus de six, la toile de David est conservée au Louvre." .
+<http://127.0.0.1:3333/14> foaf:name "La Vierge aux rochers";
+rdfs:comment "L'historiographie s'est principalement concentrée sur le grand mystère de cette commande : l'existence de deux versions de la Vierge aux rochers, celle de Londres provenant de San Francesco Grande et celle du Louvre, conservée en France depuis au moins 1625, mais dont on ignore l'histoire plus ancienne." .
+<http://127.0.0.1:3333/15> foaf:name "Le Serment des Horaces";
+rdfs:comment "Le Serment des Horaces est un tableau du peintre français Jacques-Louis David, achevé en 1785. Le tableau est de grande taille : 330 centimètres de hauteur et 425 centimètres de largeur. Il est conservé au Musée du Louvre." .
+<http://127.0.0.1:3333/16> foaf:name "Hermaphrodite endormi";
+rdfs:comment "L' Hermaphrodite endormi est une sculpture en marbre grandeur nature représentant le personnage de la mythologie grecque Hermaphrodite, fils d'Hermès et d'Aphrodite, endormi sur le ventre, la tête détournée, le pied gauche légèrement soulevé reposant sur la jambe droite." .
+<http://127.0.0.1:3333/17> foaf:name "Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau";
+rdfs:comment "Sainte Anne, la Vierge et l'Enfant Jésus jouant avec un agneau, anciennement appelé La Vierge, l’Enfant Jésus et sainte Anne, est un tableau de Léonard de Vinci peint à l'huile sur un panneau de peuplier et conservé au musée du Louvre à Paris." .
+<http://127.0.0.1:3333/18> foaf:name "La Belle Ferronnière";
+rdfs:comment "La Belle Ferronnière est un tableau de 62 × 44 cm peint entre 1495 et 1497 sur un panneau en bois de noyer et exposé au Musée du Louvre à Paris. Il est attribué à Léonard de Vinci et à son atelier." .
+<http://127.0.0.1:3333/19> foaf:name "Gladiateur Borghèse";
+rdfs:comment "La statue du Gladiateur Borghèse est une œuvre grecque datant de l'époque hellénistique. Conservé depuis le XVIIIᵉ siècle dans la collection italienne portant son nom, le gladiateur représente en réalité un guerrier en action, combattant." .
+<http://127.0.0.1:3333/20> foaf:name "Le Tricheur à l'as de carreau";
+rdfs:comment "Le Tricheur à l'as de carreau est un tableau réalisé par Georges de La Tour vers 1636-1638, conservé au musée du Louvre, et considéré comme l'un des chefs-d'œuvre du peintre et de la peinture française." .
+<http://127.0.0.1:3333/21> foaf:name "La Mort de la Vierge";
+rdfs:comment "La Mort de la Vierge est un tableau de Michelangelo Merisi, dit Caravage" .
+<http://127.0.0.1:3333/22> foaf:name "L'Esclave mourant";
+rdfs:comment "L'Esclave mourant est une sculpture du peintre italien et sculpteur de la Renaissance Michel-Ange, conservée aujourd'hui au musée du Louvre à Paris, avec L'Esclave rebelle." .
+<http://127.0.0.1:3333/23> foaf:name "Les Sabines";
+rdfs:comment "Les Sabines est un tableau peint par Jacques-Louis David entre 1796 et 1799. Peinture d'histoire appartenant au courant néoclassique, elle marque une évolution dans le style de David après la Révolution, qualifié par lui-même de « grec pur »." .
+<http://127.0.0.1:3333/24> foaf:name "Saint Jean-Baptiste";
+rdfs:comment "Saint Jean-Baptiste est un tableau de Léonard de Vinci conservé au Musée du Louvre à Paris. Il est peint sur une planche de noyer et mesure 69 × 57 cm. On le date en général de sa période romaine entre 1513 et 1516. Pedretti suppose même qu'il pourrait s‘agir d'une commande de Léon X, pape florentin." .
+<http://127.0.0.1:3333/25> foaf:name "Le Verrou";
+rdfs:comment "Le Verrou est une scène galante peinte par Jean-Honoré Fragonard en 1777. Il s'agit de l'un des tableaux les plus célèbres du peintre, véritable référence de la peinture du XVIIIᵉ siècle." .
+<http://127.0.0.1:3333/26> foaf:name "Dame d'Auxerre";
+rdfs:comment "La dame d'Auxerre est une statuette de femme en calcaire de 75 cm de haut. Originaire de Crète et datée de l'époque orientalisante, vers 630 av. J. C., elle est une des sculptures les plus abouties du style dédalique, qui prélude à l'art archaïque grec." .
+<http://127.0.0.1:3333/27> foaf:name "La Mort de Sardanapale";
+rdfs:comment "La Mort de Sardanapale est un tableau d’Eugène Delacroix réalisé en 1827 et exposé au Salon Carré du Louvre la même année. La toile fait partie des collections du musée du Louvre, où il est entré en 1921, grâce aux arrérages du legs Audéoud." .
+<http://127.0.0.1:3333/28> foaf:name "La Belle Jardinière";
+rdfs:comment "La Belle Jardinière ou La Vierge à l'Enfant avec le petit saint Jean-Baptiste est un tableau attribué à Raphaël, datant de 1505 - 1508 conservé au Musée du Louvre à Paris" .
